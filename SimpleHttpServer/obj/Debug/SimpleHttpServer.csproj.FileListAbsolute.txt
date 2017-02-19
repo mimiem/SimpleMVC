@@ -1,0 +1,8 @@
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb

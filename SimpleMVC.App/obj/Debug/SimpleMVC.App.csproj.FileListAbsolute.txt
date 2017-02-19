@@ -1,0 +1,13 @@
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleMVC.App\bin\Debug\SimpleMVC.App.exe.config
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleMVC.App\bin\Debug\Resources\Pages\404.html
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleMVC.App\bin\Debug\Resources\Pages\500.html
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleMVC.App\bin\Debug\SimpleMVC.App.exe
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleMVC.App\bin\Debug\SimpleMVC.App.pdb
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleMVC.App\bin\Debug\SimpleHttpServer.dll
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleMVC.App\bin\Debug\SimpleHttpServer.pdb
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleMVC.App\obj\Debug\SimpleMVC.App.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleMVC.App\obj\Debug\SimpleMVC.App.exe
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC-Skeleton\SimpleMVC.App\obj\Debug\SimpleMVC.App.pdb
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC\SimpleMVC.App\bin\Debug\SimpleMVC.App.exe.config
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC\SimpleMVC.App\obj\Debug\SimpleMVC.App.exe
+C:\Users\User1\Desktop\CSharpWebHomework\MVC\MVC\SimpleMVC.App\obj\Debug\SimpleMVC.App.pdb
